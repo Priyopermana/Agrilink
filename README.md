@@ -23,9 +23,9 @@
 <tr>
 <td>No. Rekening<td>:<td><input type="url" name="No. Rekening"/></td><tr/>
 <tr>
-<td>Bank<td>:<td><input type="mail" name="nama bank"/></td><tr/>
+<td>E-mail<td>:<td><input type="mail" name="nama bank"/></td><tr/>
 <tr>   
-   <td>Kecamatan<td> :
+   <td>Daftar Bank<td> :
     <td>
      <select>
      <option>Select Bank...</option>
